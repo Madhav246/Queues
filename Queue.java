@@ -1,5 +1,4 @@
 //Queue using LinkedList :
-
 import java.util.NoSuchElementException;
 
 public class Queue {
