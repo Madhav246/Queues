@@ -89,25 +89,6 @@ public class Queue {
         queue.dequeue();
         queue.print();
         System.out.println();
-
-        queue.dequeue();
-        queue.print();
-        System.out.println();
-
-        queue.dequeue();
-        queue.print();
-        System.out.println();
-
-        queue.dequeue();
-        queue.print();
-        System.out.println();
-
-        queue.dequeue();
-        queue.print();
-        System.out.println();
-
-        queue.dequeue();
-        queue.print();
-        System.out.println();
+ 
     }
 }
